@@ -6,7 +6,7 @@ I'm a young coder who loves to build things!
 
 My dream is to become a Space Coder!
 
-### 🛠️ My Skills:
+### 🌱 I’m learning :
 - 🐍 Python
 - 💻 C
 - 🌐 HTML & CSS
